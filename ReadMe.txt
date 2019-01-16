@@ -1,4 +1,6 @@
-﻿CONFIDENTIAL
+サンプルを見るにはここから： https://llminatoll.github.io/Live2D_SDK_WebGL_2.1/sample/sampleApp1/SampleApp1.html
+
+CONFIDENTIAL
 ============================================================
 	Live2D Cubism SDK for WebGL Version 2.1.00_1
 
